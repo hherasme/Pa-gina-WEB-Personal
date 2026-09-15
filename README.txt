@@ -1,1 +1,0 @@
-Este es mi primera pagina web, creada de acuerdo a los criterios que dio el profesor.
