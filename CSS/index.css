@@ -1,0 +1,14 @@
+body{
+    background-image: url(../Imagenes/Background1.avif);
+    background-size: 3000px;
+    background-attachment: fixed;
+}
+
+h1{
+    color: black;
+    font-size: 36px;
+}
+p{
+    color: black;
+    font-size: 26px;
+}
